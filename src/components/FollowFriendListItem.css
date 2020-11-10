@@ -1,0 +1,41 @@
+.friend-details {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  padding-left: 0;
+  padding-bottom: 0;
+}
+
+.avatar {
+  /* flex-grow: 1; */
+  padding-left: 0;
+}
+  
+img {
+  border-radius: 50%;
+}
+
+.friend-body {
+  flex-grow: 3;
+  display: inline;
+  align-items:center;
+  padding-left: 10px;
+}
+
+.follow {
+  text-align: right;
+  flex-grow: 1;
+  text-decoration: none;
+}
+
+p {
+  text-align: left;
+  padding-bottom: 1px;
+  margin: 1px;
+}
+
+.common-friend {
+  color: #999999;
+  font-size: 11px;
+}

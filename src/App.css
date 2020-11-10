@@ -1,0 +1,17 @@
+/* .App {
+  text-align: center;
+  background-color: #FFF;
+  
+  margin: 50px;
+  width: 250px;
+  height: auto;
+} */
+
+.container {
+  border-radius: 5px;
+  border-style: solid;
+  border-color: rgb(233, 215, 215);
+  border-width: 2px;
+  padding: 20px;
+
+} 
